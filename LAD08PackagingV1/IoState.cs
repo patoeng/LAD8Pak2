@@ -1,6 +1,6 @@
 ﻿namespace LAD08PackagingV1
 {
-    public enum IoSate
+    public enum IoState
     {
         Unknown,
         On,
